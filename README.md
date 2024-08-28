@@ -4,14 +4,14 @@
 
 ![Home](https://github.com/user-attachments/assets/906ccf6a-2101-434e-be89-348b01fc017d)
 
-##Introduction
+## Introduction
 
 In this case study, my goal is to create a Power BI dashboard which management can use to clearly observe its performance. Whiskique is a chain of online pet stores in the United States which prides itself on low costs in its operations. I am going to do a deep dive analysis on the company and look for paths to decrease costs and get an overall view of the company.
 
-##Problem Statement
+## Problem Statement
 
 
-##The primary business goals include:
+## The primary business goals include:
 
 - Serve as many customers as possible and increase sales
 - Reduce operating costs
