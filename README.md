@@ -1,14 +1,14 @@
 # E-Commerce Performance Analysis: Online Pet Store
 
-###Dashboard Link : 
+## Dashboard Link : 
 
 ![Home](https://github.com/user-attachments/assets/906ccf6a-2101-434e-be89-348b01fc017d)
 
-# Introduction
+## Introduction
 
 In this case study, my goal is to create a Power BI dashboard which management can use to clearly observe its performance. Whiskique is a chain of online pet stores in the United States which prides itself on low costs in its operations. I am going to do a deep dive analysis on the company and look for paths to decrease costs and get an overall view of the company.
 
-# Problem Statement
+## Problem Statement
 
 
 ## The primary business goals include:
@@ -24,7 +24,7 @@ It is important for Whiskique to know which products sell best and w
 In the analysis, I will also dive into market basket analysis to see which products cross-sell and upsell. 
 
 
-# Data Collection and Understanding
+## Data Collection and Understanding
 
 ![data dictionary e-commerce](https://github.com/user-attachments/assets/5b747d97-28a2-4b94-9af7-33a1324a287d)
 
@@ -47,7 +47,7 @@ California wins with the most customers.
 
 ![total customers by state](https://github.com/user-attachments/assets/384e148b-cb6d-4fac-a38a-486a1f4bddb4)
 
-# Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Next I looked at products and shipping:
 
@@ -87,7 +87,7 @@ Now management can use a slider to adjust the quantity and the cost�
 The baseline shipping cost for shipping more than 1 item costs the company $385,150, so playing around with the quantity, a decent savings can be made the more is shipped.
 
 
-# Insights
+## Insights
 
 
 The Following inferences can be drawn from the dashboard;
