@@ -1,4 +1,4 @@
-##E-Commerce Performance Analysis: Online Pet Store
+## E-Commerce Performance Analysis: Online Pet Store
 
 ## Dashboard Link : 
 
@@ -47,7 +47,7 @@ California wins with the most customers.
 
 ![total customers by state](https://github.com/user-attachments/assets/384e148b-cb6d-4fac-a38a-486a1f4bddb4)
 
-##Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Next I looked at products and shipping:
 
@@ -87,12 +87,12 @@ Now management can use a slider to adjust the quantity and the cost�
 The baseline shipping cost for shipping more than 1 item costs the company $385,150, so playing around with the quantity, a decent savings can be made the more is shipped.
 
 
-##Insights
+## Insights
 
 
 The Following inferences can be drawn from the dashboard;
 
-###[1] Total Sales = $1.55 Million
+### [1] Total Sales = $1.55 Million
 
 Total Profit (Baseline) = $427,336 (27.5 %)
 
@@ -101,7 +101,7 @@ Top Profit Generating Product Categories = Electronics, Grooming, Cleani
 Top Sales by State = California
 
           
-###[2] Shipping
+### [2] Shipping
 
 Baseline Shipping Cost = $385,149 
 
@@ -112,7 +112,7 @@ Taste of the Wild dog food is the most expensive product to ship
 California is the most expensive state for shipping costs
 
 
-##Conclusions
+## Conclusions
 
 When analyzing the LTV values, the higher the customer's lifetime value is, the more important the customer is to the company. The marketing team could help drive future customer campaigns to make this a priority.
 
