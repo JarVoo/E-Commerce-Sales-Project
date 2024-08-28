@@ -24,7 +24,7 @@ It is important for Whiskique to know which products sell best and w
 In the analysis, I will also dive into market basket analysis to see which products cross-sell and upsell. 
 
 
-##Data Collection and Understanding
+## Data Collection and Understanding
 
 ![data dictionary e-commerce](https://github.com/user-attachments/assets/5b747d97-28a2-4b94-9af7-33a1324a287d)
 
